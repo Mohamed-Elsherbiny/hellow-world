@@ -1,3 +1,5 @@
-# hellow-world
-a trash program to test github
-i hope that i will understand from github tutorials
+# Hello world
+
+A simple program to test GitHub.
+
+I hope that I will understand GitHub tutorials.
